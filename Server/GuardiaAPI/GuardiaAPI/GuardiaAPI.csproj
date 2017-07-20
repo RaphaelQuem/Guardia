@@ -119,7 +119,7 @@
     </Compile>
     <Compile Include="Models\Custody.cs" />
     <Compile Include="Models\Dependant.cs" />
-    <Compile Include="Models\Guadianship.cs" />
+    <Compile Include="Models\Guardianship.cs" />
     <Compile Include="Models\Message.cs" />
     <Compile Include="Models\User.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
