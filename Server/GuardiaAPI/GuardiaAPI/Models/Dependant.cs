@@ -7,5 +7,6 @@ namespace GuardiaAPI.Models
 {
     public class Dependant
     {
+        public string Name { get; set; }
     }
 }

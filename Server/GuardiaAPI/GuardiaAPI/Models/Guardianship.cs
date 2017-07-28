@@ -7,5 +7,6 @@ namespace GuardiaAPI.Models
 {
     public class Guardianship
     {
+
     }
 }
