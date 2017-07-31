@@ -7,5 +7,8 @@ namespace GuardiaAPI.Models
 {
     public class Message
     {
+        public DateTime DateTimeSent;
+        public string Text;
+        public int 
     }
 }

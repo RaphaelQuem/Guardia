@@ -7,6 +7,7 @@ namespace GuardiaAPI.Models
 {
     public class Guardianship
     {
+        public int UniqueKey;
 
     }
 }
